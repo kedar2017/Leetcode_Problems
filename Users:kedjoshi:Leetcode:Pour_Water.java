@@ -1,7 +1,7 @@
 package users.kedjoshi.leetcode;
 
 public class Pour_Water{
-    public class Solution{
+    public static class Solution{
         public int[] pourWater(int[] heights, int V, int K){
             int index;
 
